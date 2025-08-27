@@ -9,4 +9,5 @@ Passionate about clean code, system architecture, and continuous learning.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![ckonkol1's github stats](https://github-readme-stats.vercel.app/api?username=ckonkol1&show_icons=true&theme=dracula)
+
+[![ckonkol1's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckonkol1&show_icons=true&theme=tokyonight)](https://github.com/ckonkol1/github-readme-stats)
