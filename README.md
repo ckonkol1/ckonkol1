@@ -3,7 +3,7 @@
 Software Engineer specializing in .NET cloud-native applications, AWS infrastructure, and API design. 
 Passionate about clean code, system architecture, and continuous learning. 
 
-🔭 Currently exploring: Agentic AI and its applications in software development<br/>
+🔭 Currently exploring: AI and its applications in software development<br/>
 💻 Tech stack: .NET, Python, AWS, Docker, microservices, RESTful APIs<br/>
 🌱 Always learning: New patterns for efficient, scalable software solutions
 
